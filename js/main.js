@@ -46,7 +46,7 @@ window.addEventListener('scroll', _.throttle(function () {
     // ※ gsap.to(요소, 지속시간, 옵션);
     gsap.to(toTopEl, .2, {
       x: 100
-    });
+    });giyt
   }
 }, 300));
 // #맨 윗 상단 to-top버튼 클릭시 동작
